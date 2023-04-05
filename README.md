@@ -1,7 +1,7 @@
 <h1 align="center">RedScrapIt</h1>
 
 <p align='center'>
-    <b>💀 Reddit Scrapper With Deno 💀</b>
+    <b>🤖 Reddit Scrapper With Deno 🤖</b>
 </p>
 
 ----
