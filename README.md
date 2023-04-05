@@ -42,9 +42,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/RedScrapIt?color=313131">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/RedScrapIt?color=313131">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/RedScrapIt?color=313131">
-    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/RedScrapIt?color=313131">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/RedScrapIt?color=313131">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/RedScrapIt?color=0aa2fa">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/RedScrapIt?color=0aa2fa">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/RedScrapIt?color=0aa2fa">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/RedScrapIt?color=0aa2fa">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/RedScrapIt?color=0aa2fa">
 </p>
